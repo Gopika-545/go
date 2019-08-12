@@ -1,1 +1,2 @@
 # go
+print "hellow world"
